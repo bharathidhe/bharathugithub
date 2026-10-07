@@ -1,7 +1,7 @@
 // literal
 // array --> group the collection of values
 // [] --> array
-let course =["selenium","cypress","playwright"]
+let course =["selenium","cypress","playwright",GGGGGG]
 console.log(course)
 // ,"appium"
 // index --> 0's based

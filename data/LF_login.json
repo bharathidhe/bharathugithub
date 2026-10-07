@@ -1,0 +1,18 @@
+[{
+"role" : "Admin",
+"username" : "democsr",
+"password" : "crmsfa",
+"companyName" :"Testleaf",
+"firstname" : "Bhuvanesh",
+"lastname" :"M"
+
+},
+{
+"role" : "customer",
+"username" : "democsr2",
+"password" : "crmsfa",
+"companyName" : "Testleaf1",
+"firstname" : "Bhuvanesh",
+"lastname" :"M"
+
+}]

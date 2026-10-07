@@ -1,0 +1,14 @@
+{
+  "name": "weeek2day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagramsAssign.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.1"
+  }
+}
